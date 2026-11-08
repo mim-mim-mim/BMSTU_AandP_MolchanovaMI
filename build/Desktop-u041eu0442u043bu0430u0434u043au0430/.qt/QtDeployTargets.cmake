@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_laboratornaya_6_2_FILE /home/user/laboratornaya_6_2/build/Desktop-u041eu0442u043bu0430u0434u043au0430/laboratornaya_6_2)
-set(__QT_DEPLOY_TARGET_laboratornaya_6_2_TYPE EXECUTABLE)

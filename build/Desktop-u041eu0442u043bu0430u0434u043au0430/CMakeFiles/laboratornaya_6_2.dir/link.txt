@@ -1,1 +1,0 @@
-/bin/g++ -g CMakeFiles/laboratornaya_6_2.dir/laboratornaya_6_2_autogen/mocs_compilation.cpp.o CMakeFiles/laboratornaya_6_2.dir/main.cpp.o -o laboratornaya_6_2  /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.10.2
