@@ -13,7 +13,7 @@ long double power (int a,int n) {
         cnt++;
         return power(a * a, n / 2);
     }
-    if (n % 2 == 1) {
+    else{
         cnt++;
         return a*power(a * a, (n - 1)/2);
     }
